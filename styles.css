@@ -1,0 +1,15 @@
+
+.pred {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid #fff;
+  }
+
+.pred.low {
+    background-color: #08732c
+}
+
+.pred.high {
+    background-color: #D12D0A
+}
