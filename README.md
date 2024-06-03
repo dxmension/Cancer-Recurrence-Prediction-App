@@ -1,5 +1,5 @@
 # 🧬 Project 1 [Thyroid Cancer]
-### Exploratory Data Analysis + Classification (Random Forest)
+### Exploratory Data Analysis + Classification (Random Forest) + Model Deployment
 ![image](https://github.com/dxmension/thyroid_cancer_recurrence_EDA_CLF/assets/154459326/763798a6-ca8e-44b4-816c-f1bc1c218d6f)
 
 
